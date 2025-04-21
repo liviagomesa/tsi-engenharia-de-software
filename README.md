@@ -14,7 +14,8 @@ A história em quadrinhos "Metodologias Ágeis" apresenta uma conversa leve e ed
 
 - Livia Gomes de Azevedo  
 - Silvio Simplicio Pinheiro  
--  Diego Siqueira Menezes
+- Diego Siqueira Menezes
+- Marcelo Braz de Souza
 
 ## Nome do grupo
 
