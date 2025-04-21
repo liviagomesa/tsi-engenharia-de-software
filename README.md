@@ -15,3 +15,12 @@ A história em quadrinhos "Metodologias Ágeis" apresenta uma conversa leve e ed
 - Livia Gomes de Azevedo  
 - Silvio Simplicio Pinheiro  
 -  Diego Siqueira Menezes
+
+## Nome do grupo
+
+Grupo Metodologias Ágeis
+
+## Links
+
+- [Backlog do produto](https://github.com/users/liviagomesa/projects/1/views/1)
+- [Backlog da sprint 1](https://github.com/users/liviagomesa/projects/1/views/1?filterQuery=label%3Asprint1)
