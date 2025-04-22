@@ -16,6 +16,7 @@ A história em quadrinhos "Metodologias Ágeis" apresenta uma conversa leve e ed
 - Silvio Simplicio Pinheiro  
 - Diego Siqueira Menezes
 - Marcelo Braz de Souza
+- Lucas Leonardo Nobrega dos Santos
 
 ## Nome do grupo
 
