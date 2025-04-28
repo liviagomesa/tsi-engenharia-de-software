@@ -27,3 +27,6 @@ Grupo Metodologias Ágeis
 - [Backlog do produto](https://github.com/liviagomesa/tsi-engenharia-de-software/issues)
 - [Backlog da sprint 1](https://github.com/liviagomesa/tsi-engenharia-de-software/issues?q=is%3Aissue%20state%3Aopen%20label%3Asprint1)
 - [Kanban](https://github.com/users/liviagomesa/projects/1 )
+- [Sprint Review](https://github.com/liviagomesa/tsi-engenharia-de-software/blob/main/entregas-sprint1.md)
+- [Sprint Retrospective](https://github.com/liviagomesa/tsi-engenharia-de-software/blob/main/sprint_retrospective.md)
+
